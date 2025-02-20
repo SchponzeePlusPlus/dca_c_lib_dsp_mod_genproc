@@ -28,8 +28,7 @@
 // Declare global constants here
 // "Magic numbers" are assigned as global constants
 
-// Maximum voltage output of an LDR reference resistor
-//	const float LDR_REF_R_MAX_VOLT = 5.0;
+//	const float CONST_IDENTIFIER = CONST_VAL;
 
 // Hysteresis error tolerances allowed between two LDR sets
 //const float LDR_REF_R_EW_SETS_HYSTERESIS = 0.03;
